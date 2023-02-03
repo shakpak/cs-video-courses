@@ -6,7 +6,7 @@
 - If you are bored reading above 10 lines, imagine reading descriptions for hundreds of courses :)
 - If You need assistance in deciding order in which courses should be taken, please refer to sample Course prerequisite charts by Universities to familiarize yourself with standard CS curriculum. If you need to know prerequisites for a particular course not covered by below samples, please check the course link or try Google.
   - [MIT Curriculum Guide](https://ocw.mit.edu/courses/mit-curriculum-guide/)
-  - [MIT New (Fall 2016) Degree Requirements](https://www.eecs.mit.edu/curriculum2016)
+  - [MIT New (Fall 2022) Degree Requirements](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-4-artificial-intelligence-and-decision-making/)
   - [Stanford Current CS Program Sheets](http://csmajor.stanford.edu/ProgramSheets.shtml)
   - [UMN Computer Science Course Prerequisite Chart](https://www.cs.umn.edu/sites/cs.umn.edu/files/cseprerequisite_chart.pdf)
 - Disclaimer: The links have been taken from public domain websites like Open courseware sites, class-central, , YouTube channels for Universities, University pages, Google, itunes U, blog posts and similar sites like awesome-courses etc. If you are University Professor for any course listed below and would like Your course to be removed from the list, please raise an issue with course details.
